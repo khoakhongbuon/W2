@@ -140,3 +140,4 @@ D:\repos\W2\W2\obj\Debug\net8.0\refint\W2.dll
 D:\repos\W2\W2\obj\Debug\net8.0\W2.pdb
 D:\repos\W2\W2\obj\Debug\net8.0\W2.genruntimeconfig.cache
 D:\repos\W2\W2\obj\Debug\net8.0\ref\W2.dll
+D:\repos\W2\W2\obj\Debug\net8.0\W2.sourcelink.json

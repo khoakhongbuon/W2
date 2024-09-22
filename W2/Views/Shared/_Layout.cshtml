@@ -29,6 +29,12 @@
                         <li class="nav-item">
                             <a class="nav-link" href="@Url.Action("Index", "Blog")">Manage Blog</a>
                         </li>
+                        @if (User.IsInRole("Admin"))  
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Create", "Blog")">Create Blog</a> 
+                            </li>
+                        }
                         <li class="nav-item">
                             <a class="nav-link" href="@Url.Action("Logout", "Account")">Logout</a>
                         </li>
@@ -54,9 +60,6 @@
             <p>&copy; @DateTime.Now.Year - My Blog Application</p>
         </footer>
     </div>
-
-    
-   
 
     @RenderSection("Scripts", required: false)
 </body>
