@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|solutionrelative:w2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|d:\\repos\\w2\\w2\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|solutionrelative:w2\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|d:\\repos\\w2\\w2\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|solutionrelative:w2\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|d:\\repos\\w2\\w2\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|solutionrelative:w2\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|d:\\repos\\w2\\w2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614A48BC-6871-4C19-B4E4-C6D284BD7A3A}|W2\\W2.csproj|solutionrelative:w2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\W2\\W2\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "W2\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "D:\\repos\\W2\\W2\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "W2\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T09:14:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\repos\\W2\\W2\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "W2\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "D:\\repos\\W2\\W2\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "W2\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T09:13:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\repos\\W2\\W2\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "W2\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\repos\\W2\\W2\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "W2\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:11:53.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\repos\\W2\\W2\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "W2\\Controllers\\AccountController.cs",
@@ -38,12 +89,11 @@
               "RelativeToolTip": "W2\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAAFEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:12:52.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:12:52.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\repos\\W2\\W2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "W2\\Views\\Shared\\_Layout.cshtml",
@@ -51,8 +101,7 @@
               "RelativeToolTip": "W2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAACIAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-21T15:00:42.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:00:42.323Z"
             },
             {
               "$type": "Document",
@@ -62,14 +111,14 @@
               "RelativeDocumentMoniker": "W2\\Program.cs",
               "ToolTip": "D:\\repos\\W2\\W2\\Program.cs",
               "RelativeToolTip": "W2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T18:06:31.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "20240909180352_init.cs",
               "DocumentMoniker": "D:\\repos\\W2\\W2\\Migrations\\20240909180352_init.cs",
               "RelativeDocumentMoniker": "W2\\Migrations\\20240909180352_init.cs",
